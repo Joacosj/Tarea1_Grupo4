@@ -22,6 +22,6 @@ Este proyecto analiza un archivo CSV con datos de ventas de pizzas y calcula mé
 - Cantidad de pizzas por categoría (`hp`)
 
 ## Compilación
-Para compilar el proyecto, asegúrate de tener instalado `gcc` y ejecuta el siguiente comando en la terminal: make
-Luego para ejecutar el programa se ejecuta el siguiente comando con este formato: ./app1 <archivo_csv> <métrica1> [<métrica2> ...]
+Para compilar el proyecto, asegúrate de tener instalado `gcc` y ejecuta el siguiente comando en la terminal: make  
+Luego para ejecutar el programa se ejecuta el siguiente comando con este formato: ./app1 <archivo_csv> <métrica1> [<métrica2> ...]  
 Ejemplo: ./app1 ventas.csv pms pls
